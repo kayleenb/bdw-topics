@@ -1,0 +1,22 @@
+  <body>
+<h1 >Revision Control</h1>
+
+<p>At this point I have to compare everything to video because that is the world I live in. When you work in video you have to do what is called an incremental save. Everytime you make significant changes you save with an increasing numerical name. This allows you to return to a previous file should you need to or it you dislike any of the changes.
+</p>
+    <p>Version Control on the web allows for this and also for people to collaborate on files. They can shate the files with incremental names and still access the previous files should they need them. 
+    </p>
+
+
+   <section>
+   <h2>sites:</h2>
+<ul>
+   <li>http://en.wikipedia.org/wiki/Revision_control</li>
+   <li>http://en.wikibooks.org/wiki/Version_Control</li>
+   
+  
+</ul>
+   </section>
+
+   
+   <body>
+      </html>

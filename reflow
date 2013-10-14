@@ -1,0 +1,22 @@
+  <body>
+<h1 >reflow</h1>
+
+<p>Reflow is the browser performing the math to determine where to place the elements on a webpage. Evidently it effects the speed with which your browser can load the page. According to the guy in the video, you trade smoothness for speed with a webpage and should avoid too much depth in your DOM. I am trying to figure out what exactly that means.
+</p>
+    <p>I am not used to the speed with which web people expect things to work. I work with video and things are really big and take a long time to render. Web seems to work exactly the same way and it seems that people expect pages to load immediately. Come to think of it, so do I.
+    </p>
+
+
+   <section>
+   <h2>sites:</h2>
+<ul>
+   <li>https://developers.google.com/speed/articles/reflow</li>
+   <li>http://www.kumarchetan.com/blog/2013/06/09/what-is-reflow-repaint-restyle-and-relayout/</li>
+   
+  
+</ul>
+   </section>
+
+   
+   <body>
+      </html>
